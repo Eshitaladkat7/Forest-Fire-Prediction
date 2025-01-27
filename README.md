@@ -6,7 +6,10 @@ This repository demonstrates a pipeline to predict the size of forest fires base
 
 Key features:
 
-Data preprocessing: Categorical encoding and log transformation.
-Model training: Random Forest Regressor.
-Performance metrics: Mean Squared Error (MSE) and R².
-Visualizations: Feature importance and actual vs predicted comparisons.
+1. Data preprocessing: Categorical encoding and log transformation.
+
+2. Model training: Random Forest Regressor.
+
+3. Performance metrics: Mean Squared Error (MSE) and R².
+
+4. Visualizations: Feature importance and actual vs predicted comparisons.
